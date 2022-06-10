@@ -1,4 +1,7 @@
-### Hi there 👋
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=angular/angular,symfony/symfony&type=Date)](https://star-history.com/#angular%2Fangular=&symfony%2Fsymfony=&Date=)
+
 
 <!--
 **web-party/web-party** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
