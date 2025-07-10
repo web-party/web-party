@@ -1,4 +1,5 @@
-<code>void</code>
+I've been learning a lot from OSS code and the communities supporting it. I enjoy visiting and exploring good-quality repositories. You may want to take a look at the list of the ones I've starred over the past few years to get a sense of my interests and values.
+
 <!--
 **web-party/web-party** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
